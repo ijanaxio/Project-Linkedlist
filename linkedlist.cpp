@@ -100,7 +100,7 @@ int main() {
                 cout << "Keluar dari program.\n";
                 break;
             default:
-                cout << "Pilihan tidak valid.\n";
+                cout << "Pilihaan tidak valid.\n";
         }
     } while (pilihan != 0);
 
